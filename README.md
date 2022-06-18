@@ -56,4 +56,4 @@ Each of the shell scripts take two arguments
     To update the stack simply change *create-stack* to *update-stack*
 
 Go to your cloud console and viola! you will see the link to the webserver via the stack exported output.
-See the [example deployement](http://webse-webap-1l6ufzfjbxdjb-653859289.us-east-1.elb.amazonaws.com) from this scripts, let's hope it's still available.
+See the [example deployement](http://webse-webap-1np11kjwm7afr-2065955315.us-east-1.elb.amazonaws.com) from this scripts, let's hope it's still available.
